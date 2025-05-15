@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-medusa
+  x-cortex-tag: monster-medusa
+  x-cortex-custom-metadata:
+    alignment: chaotic-good
+    type: dragon
+    challenge_rating: 7
+    legendary: true
+    armor_class: 21
+    hit_points: 58
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-medusa
+      alias: github-token-test
